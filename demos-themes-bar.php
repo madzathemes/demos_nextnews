@@ -9,7 +9,7 @@ Author URI: https://themeforest.net
 */
 
 function magazine_themes_bar() { if(!is_user_logged_in()) { ?>
-  <div class="mtc-d hide-mobile mt-d-on">
+  <div class="mtc-d hide-mobile mt-d-off">
     <div class="mtc-d-close"></div>
     <div class="mtc-d-open"><strong>5+ </strong> Demos</div>
     <div class="mtc-d-buy"><a  href="https://themeforest.net/item/nextnews-wordpress-theme-for-blog-magazine-newspaper/19695864">Buy Now!</a></div>

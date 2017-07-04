@@ -4,7 +4,7 @@ Plugin Name: NextNews Themes Bar
 Plugin URI: https://themeforest.net
 Description: NextNews Theme Bar settings
 Author: Madars Bitenieks
-Version: 1.0
+Version: 1.2
 Author URI: https://themeforest.net
 */
 

@@ -18,7 +18,7 @@ function magazine_themes_bar() { ?>
         <h3>NEXTNEWS</h3>
         <h4>See All Installable Demos</h4>
         <p>
-          With easy <strong>ONE CLICK INSTALL</strong> and fully customizable options, our demos are the best start you'll ever get!!
+          With easy <strong>one click install</strong> and fully customizable options, our demos are the best start you'll ever get!!
         </p>
       </div>
       <a class="mtc-demo" href="http://nextnewsx.tophot.staging.wpengine.com/"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_x.jpg"/></div></a>

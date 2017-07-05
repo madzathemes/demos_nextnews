@@ -21,16 +21,15 @@ function magazine_themes_bar() { ?>
           With easy <strong>ONE CLICK INSTALL</strong> and fully customizable options, our demos are the best start you'll ever get!!
         </p>
       </div>
-      <a class="mtc-demo-1" href="http://nextnews.tophot.staging.wpengine.com/"><div><img src="https://2xgsqf1rswon2n2te61220m2-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/bd-1-1.jpg"/></div></a>
-      <a class="mtc-demo-2" href="http://nextnewsx.tophot.staging.wpengine.com/"><div><img src="https://2xgsqf1rswon2n2te61220m2-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/d_craft2.jpg"/></div></a>
-      <a class="mtc-demo-3" href="http://nextnewsz.tophot.staging.wpengine.com/"><div><img src="https://2xgsqf1rswon2n2te61220m2-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/d_tech.jpg"/></div></a>
-      <a class="mtc-demo-4" href="http://nextnews03.tophot.staging.wpengine.com/"><div><img src="https://2xgsqf1rswon2n2te61220m2-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/d_tech.jpg"/></div></a>
+      <a class="mtc-demo-2" href="http://nextnewsx.tophot.staging.wpengine.com/"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_x.jpg"/></div></a>
+      <a class="mtc-demo-3" href="http://nextnewsy.tophot.staging.wpengine.com/"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_y.jpg"/></div></a>
+      <a class="mtc-demo-4" href="http://nextnewsz.tophot.staging.wpengine.com/"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_z.jpg"/></div></a>
 
     </div>
   </div>
 
 
-<?php } 
+<?php }
 
 
 function mt_hide_script() {

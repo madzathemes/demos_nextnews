@@ -8,7 +8,7 @@ Version: 1.2
 Author URI: https://themeforest.net
 */
 
-function magazine_themes_bar() { if(!is_user_logged_in()) { ?>
+function magazine_themes_bar() { ?>
   <div class="mtc-d hide-mobile mt-d-off">
     <div class="mtc-d-close"></div>
     <div class="mtc-d-open"><strong>5+ </strong> Demos</div>
@@ -30,7 +30,7 @@ function magazine_themes_bar() { if(!is_user_logged_in()) { ?>
   </div>
 
 
-<?php } }
+<?php } 
 
 
 function mt_hide_script() {

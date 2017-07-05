@@ -15,7 +15,7 @@ function magazine_themes_bar() { ?>
     <div class="mtc-d-buy"><a target="_blank" href="https://themeforest.net/item/nextnews-wordpress-theme-for-blog-magazine-newspaper/19695864">Buy Now!</a></div>
     <div class="mtc-d-in">
       <div class="mtc-d-text">
-        <h3>NextNews</h3>
+        <h2>NEXTNEWS</h2>
         <h4>See All Installable Demos</h4>
         <p>
           With easy <strong>ONE CLICK INSTALL</strong> and fully customizable options, our demos are the best start you'll ever get!!

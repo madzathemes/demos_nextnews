@@ -28,6 +28,8 @@ function magazine_themes_bar() { ?>
       </div>
       <div>
         <div class="mtc-demo mtc-soon"><div>Coming Soon</div></div>
+        <div class="mtc-demo mtc-soon"><div>Coming Soon</div></div>
+        <div class="mtc-demo mtc-soon"><div>Coming Soon</div></div>
       </div>
     </div>
   </div>

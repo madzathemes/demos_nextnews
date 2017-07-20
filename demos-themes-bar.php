@@ -28,15 +28,17 @@ function magazine_themes_bar() { ?>
         <a class="mtc-demo" href="http://nextnewsz.tophot.staging.wpengine.com/"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_z.jpg"/></div></a>
       </div>
       <div>
+
+        <a class="mtc-demo" href="http://nextnews.tophot.staging.wpengine.com/"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo.jpg"/></div></a>
         <a class="mtc-demo" href="http://nextnews03.tophot.staging.wpengine.com/"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_03.jpg"/></div></a>
         <a class="mtc-demo" href="http://nextnews04.tophot.staging.wpengine.com/"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_04.jpg"/></div></a>
 
-        <a class="mtc-demo" href="http://nextnewsx.tophot.staging.wpengine.com/"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_x.jpg"/></div></a>
 
       </div>
       <div>
+
+                <a class="mtc-demo" href="http://nextnewsx.tophot.staging.wpengine.com/"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_x.jpg"/></div></a>
         <a class="mtc-demo" href="http://nextnews08.tophot.staging.wpengine.com/"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_08.jpg"/></div></a>
-        <a class="mtc-demo" href="http://nextnews.tophot.staging.wpengine.com/"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo.jpg"/></div></a>
         <div class="mtc-demo mtc-soon"><div>Coming Soon</div></div>
       </div>
     </div>

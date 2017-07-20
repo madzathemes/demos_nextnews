@@ -29,9 +29,9 @@ function magazine_themes_bar() { ?>
       </div>
       <div>
 
+        <a class="mtc-demo" href="http://nextnews04.tophot.staging.wpengine.com/"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_04.jpg"/></div></a>
         <a class="mtc-demo" href="http://nextnews.tophot.staging.wpengine.com/"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo.jpg"/></div></a>
         <a class="mtc-demo" href="http://nextnews03.tophot.staging.wpengine.com/"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_03.jpg"/></div></a>
-        <a class="mtc-demo" href="http://nextnews04.tophot.staging.wpengine.com/"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_04.jpg"/></div></a>
 
 
       </div>

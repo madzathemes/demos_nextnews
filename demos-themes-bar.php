@@ -11,7 +11,7 @@ Author URI: https://themeforest.net
 function magazine_themes_bar() { ?>
   <div class="mtc-d hide-mobile mt-d-off">
     <div class="mtc-d-close"></div>
-    <div class="mtc-d-open"><strong>8+ </strong> Demos</div>
+    <div class="mtc-d-open"><strong>13+ </strong> Demos</div>
     <div class="mtc-d-buy"><a target="_blank" href="https://themeforest.net/item/nextnews-wordpress-theme-for-blog-magazine-newspaper/19695864">Buy Now!</a></div>
     <div class="mtc-d-in">
       <div class="mtc-d-text">

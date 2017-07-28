@@ -11,7 +11,7 @@ Author URI: https://themeforest.net
 function magazine_themes_bar() { ?>
   <div class="mtc-d hide-mobile mt-d-off">
     <div class="mtc-d-close"></div>
-    <div class="mtc-d-open"><strong>13+ </strong> Demos</div>
+    <div class="mtc-d-open"><strong>8+ </strong> Demos</div>
     <div class="mtc-d-buy"><a target="_blank" href="https://themeforest.net/item/nextnews-wordpress-theme-for-blog-magazine-newspaper/19695864">Buy Now!</a></div>
     <div class="mtc-d-in">
       <div class="mtc-d-text">
@@ -22,28 +22,27 @@ function magazine_themes_bar() { ?>
         </p>
       </div>
       <div>
-        <a class="mtc-demo" href="https://nextnews01.madzathemes.com"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo.jpg"/></div></a>
-        <a class="mtc-demo" href="https://nextnews02.madzathemes.com"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_y.jpg"/></div></a>
-        <a class="mtc-demo" href="https://nextnews03.madzathemes.com"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_06.jpg"/></div></a>
+        <a class="mtc-demo" href="http://nextnews.tophot.staging.wpengine.com/"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo.jpg"/></div></a>
+        <a class="mtc-demo" href="http://nextnewsy.tophot.staging.wpengine.com/"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_y.jpg"/></div></a>
+
+        <a class="mtc-demo" href="http://nextnews06.tophot.staging.wpengine.com/"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_06.jpg"/></div></a>
       </div>
       <div>
-        <a class="mtc-demo" href="https://nextnews04.madzathemes.com"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_04.jpg"/></div></a>
-        <a class="mtc-demo" href="https://nextnews05.madzathemes.com"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_z.jpg"/></div></a>
-        <a class="mtc-demo" href="https://nextnews06.madzathemes.com"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_03.jpg"/></div></a>
+
+        <a class="mtc-demo" href="http://nextnews04.tophot.staging.wpengine.com/"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_04.jpg"/></div></a>
+
+        <a class="mtc-demo" href="http://nextnewsz.tophot.staging.wpengine.com/"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_z.jpg"/></div></a>
+        <a class="mtc-demo" href="http://nextnews03.tophot.staging.wpengine.com/"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_03.jpg"/></div></a>
+
+
       </div>
       <div>
-        <a class="mtc-demo" href="https://nextnews07.madzathemes.com"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_x.jpg"/></div></a>
-        <a class="mtc-demo" href="https://nextnews08.madzathemes.com"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_08.jpg"/></div></a>
-        <a class="mtc-demo" href="https://nextnews09.madzathemes.com"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_08.jpg"/></div></a>
-      </div>
-      <div>
-        <a class="mtc-demo" href="https://nextnews10.madzathemes.com"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_x.jpg"/></div></a>
-        <a class="mtc-demo" href="https://nextnews11.madzathemes.com"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_08.jpg"/></div></a>
-        <a class="mtc-demo" href="https://nextnews12.madzathemes.com"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_08.jpg"/></div></a>
-      </div>
-      <div>
-        <a class="mtc-demo" href="https://nextnews13.madzathemes.com"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_08.jpg"/></div></a>
-        <div class="mtc-demo mtc-soon"><div>Coming Soon</div></div>
+
+        <a class="mtc-demo" href="http://nextnewsx.tophot.staging.wpengine.com/"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_x.jpg"/></div></a>
+        <a class="mtc-demo" href="http://nextnews08.tophot.staging.wpengine.com/"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_08.jpg"/></div></a>
+        
+
+
         <div class="mtc-demo mtc-soon"><div>Coming Soon</div></div>
       </div>
     </div>

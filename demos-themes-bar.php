@@ -53,13 +53,6 @@
         <?php }
 
 
-        function mt_hide_script() {
-        		wp_enqueue_script('mt-bar', get_template_directory_uri() . '/inc/js/bar.js', array('jquery'), '1.0', true);
-        		if(!is_user_logged_in()){ wp_add_inline_script( 'mt-bar', 'if ( top !== self ) top.location.replace( self.location.href );', 'after' ); }
-        	}
-        add_action('wp_enqueue_scripts', 'mt_hide_script');
-
-    
 
 
 

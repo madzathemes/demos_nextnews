@@ -43,7 +43,12 @@
               </div>
               <div>
                 <a class="mtc-demo" href="https://nextnews13.madzathemes.com"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_08.jpg"/></div></a>
-                <div class="mtc-demo mtc-soon"><div>Coming Soon</div></div>
+                <a class="mtc-demo" href="https://nextnews14.madzathemes.com"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_08.jpg"/></div></a>
+                <a class="mtc-demo" href="https://nextnews15.madzathemes.com"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_08.jpg"/></div></a>
+              </div>
+              <div>
+                <a class="mtc-demo" href="https://nextnews16.madzathemes.com"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_08.jpg"/></div></a>
+                <a class="mtc-demo" href="https://nextnews17.madzathemes.com"><div><img src="http://nextnewsdemos.tophot.staging.wpengine.com/wp-content/uploads/sites/37/2017/07/demo_08.jpg"/></div></a>
                 <div class="mtc-demo mtc-soon"><div>Coming Soon</div></div>
               </div>
             </div>

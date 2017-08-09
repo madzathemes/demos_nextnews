@@ -59,17 +59,8 @@
         	}
         add_action('wp_enqueue_scripts', 'mt_hide_script');
 
-        ?>
+    
 
-
-
-        <div class="mtc-demo mtc-soon"><div>Coming Soon</div></div>
-      </div>
-    </div>
-  </div>
-
-
-<?php }
 
 
 function mt_hide_script() {

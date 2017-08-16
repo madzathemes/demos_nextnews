@@ -22,32 +22,32 @@ function magazine_themes_bar() { ?>
         </p>
       </div>
       <div>
-        <a class="mtc-demo" href="https://nextnews01.madzathemes.com"><div><img src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews01.png"/></div></a>
-        <a class="mtc-demo" href="https://nextnews02.madzathemes.com"><div><img src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews02.png"/></div></a>
-        <a class="mtc-demo" href="https://nextnews03.madzathemes.com"><div><img src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews03.png"/></div></a>
+        <a class="mtc-demo" href="https://nextnews01.madzathemes.com"><div><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews01.png" /></div></a>
+        <a class="mtc-demo" href="https://nextnews02.madzathemes.com"><div><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews02.png" /></div></a>
+        <a class="mtc-demo" href="https://nextnews03.madzathemes.com"><div><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews03.png" /></div></a>
       </div>
       <div>
-        <a class="mtc-demo" href="https://nextnews04.madzathemes.com"><div><img src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews04.png"/></div></a>
-        <a class="mtc-demo" href="https://nextnews05.madzathemes.com"><div><img src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews05.png"/></div></a>
-        <a class="mtc-demo" href="https://nextnews06.madzathemes.com"><div><img src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews06.png"/></div></a>
+        <a class="mtc-demo" href="https://nextnews04.madzathemes.com"><div><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews04.png" /></div></a>
+        <a class="mtc-demo" href="https://nextnews05.madzathemes.com"><div><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews05.png" /></div></a>
+        <a class="mtc-demo" href="https://nextnews06.madzathemes.com"><div><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews06.png" /></div></a>
       </div>
       <div>
-        <a class="mtc-demo" href="https://nextnews07.madzathemes.com"><div><img src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews07.png"/></div></a>
-        <a class="mtc-demo" href="https://nextnews08.madzathemes.com"><div><img src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews08.png"/></div></a>
-        <a class="mtc-demo" href="https://nextnews09.madzathemes.com"><div><img src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews09.png"/></div></a>
+        <a class="mtc-demo" href="https://nextnews07.madzathemes.com"><div><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews07.png" /></div></a>
+        <a class="mtc-demo" href="https://nextnews08.madzathemes.com"><div><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews08.png" /></div></a>
+        <a class="mtc-demo" href="https://nextnews09.madzathemes.com"><div><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews09.png" /></div></a>
       </div>
       <div>
-        <a class="mtc-demo" href="https://nextnews10.madzathemes.com"><div><img src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews10.png"/></div></a>
-        <a class="mtc-demo" href="https://nextnews11.madzathemes.com"><div><img src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews11.png"/></div></a>
-        <a class="mtc-demo" href="https://nextnews12.madzathemes.com"><div><img src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews12.png"/></div></a>
+        <a class="mtc-demo" href="https://nextnews10.madzathemes.com"><div><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews10.png" /></div></a>
+        <a class="mtc-demo" href="https://nextnews11.madzathemes.com"><div><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews11.png" /></div></a>
+        <a class="mtc-demo" href="https://nextnews12.madzathemes.com"><div><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews12.png" /></div></a>
       </div>
       <div>
-        <a class="mtc-demo" href="https://nextnews13.madzathemes.com"><div><img src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews13.png"/></div></a>
-        <a class="mtc-demo" href="https://nextnews14.madzathemes.com"><div><img src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews14.png"/></div></a>
-        <a class="mtc-demo" href="https://nextnews15.madzathemes.com"><div><img src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews15.png"/></div></a>
+        <a class="mtc-demo" href="https://nextnews13.madzathemes.com"><div><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews13.png" /></div></a>
+        <a class="mtc-demo" href="https://nextnews14.madzathemes.com"><div><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews14.png" /></div></a>
+        <a class="mtc-demo" href="https://nextnews15.madzathemes.com"><div><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews15.png" /></div></a>
       </div>
       <div>
-        <a class="mtc-demo" href="https://nextnews16.madzathemes.com"><div><img src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews16.png"/></div></a>
+        <a class="mtc-demo" href="https://nextnews16.madzathemes.com"><div><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://nextnews01.madzathemes.com/wp-content/uploads/sites/10/2017/08/nextnews16.png" /></div></a>
       <div class="mtc-demo mtc-soon"><div>Coming Soon</div></div>
         <div class="mtc-demo mtc-soon"><div>Coming Soon</div></div>
       </div>
